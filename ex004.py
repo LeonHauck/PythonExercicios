@@ -1,11 +1,15 @@
-n = input('Digite um valor:')
-print(type(n.isalnum()))
-print(n.isalpha())
-print(n.isdigit())
-print(n.isspace())
-print(n.isupper())
-print(n.islower())
-print(n.isnumeric())
+n = input('Digite algo: ')
+print('O tipo primitivo desse valor é ', type(n))
+print('Só tem espaços? ', n.isspace())
+print('É um número? ', n.isnumeric())
+print('É alfabético? ', n.isalpha())
+print('É alfanumérico? ', n.isalnum())
+print('Está em maiúscilas? ', n.isupper())
+print('Está em minúsculas? ', n.islower())
+print('Está capitalizada? ', n.istitle())
+
+
+
 
 
 
