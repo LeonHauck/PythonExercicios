@@ -1,14 +1,12 @@
-n = input('Digite algo: ')
-print('O tipo primitivo desse valor é ', type(n))
-print('Só tem espaços? ', n.isspace())
-print('É um número? ', n.isnumeric())
-print('É alfabético? ', n.isalpha())
-print('É alfanumérico? ', n.isalnum())
-print('Está em maiúscilas? ', n.isupper())
-print('Está em minúsculas? ', n.islower())
-print('Está capitalizada? ', n.istitle())
-
-
+a = input('Digite algo: ')
+print(f'O tipo primitivo desse valor é {type(a)}')
+print(f'Só tem espaços? {a.isspace()}')
+print(f'É um número? {a.isnumeric()}')
+print(f'É alfabético? {a.isalpha()}')
+print(f'É alfanumérico? {a.isalnum()}')
+print(f'Está em maiúsculas? {a.isupper()}')
+print(f'Está em minúsculas? {a.islower()}')
+print(f'Está capitalizada? {a.istitle()}')
 
 
 
