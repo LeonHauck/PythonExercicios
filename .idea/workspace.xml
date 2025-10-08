@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67b1a82-26b1-43ad-96c3-fecb0bb3c813" name="Changes" comment="Day six">
-      <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
-    </list>
+    <list default="true" id="a67b1a82-26b1-43ad-96c3-fecb0bb3c813" name="Changes" comment="Day six" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +92,7 @@
       <workItem from="1759677389965" duration="70000" />
       <workItem from="1759678950129" duration="1826000" />
       <workItem from="1759795124246" duration="10000" />
-      <workItem from="1759879707104" duration="6127000" />
+      <workItem from="1759879707104" duration="6613000" />
     </task>
     <task id="LOCAL-00001" summary="Day Two">
       <option name="closed" value="true" />
@@ -168,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759885349130</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day six">
+      <option name="closed" value="true" />
+      <created>1759885894804</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759885894804</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +195,7 @@
     <SUITE FILE_PATH="coverage/PythonExercicios$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1759369204230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonExercicios$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1759879935774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonExercicios$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1759885471916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonExercicios$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1759882677598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonExercicios$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1759886142353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonExercicios$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1759679633762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonExercicios$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1759548669605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonExercicios$ex007.coverage" NAME="ex007 Coverage Results" MODIFIED="1759884824758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
