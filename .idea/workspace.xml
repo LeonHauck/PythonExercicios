@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67b1a82-26b1-43ad-96c3-fecb0bb3c813" name="Changes" comment="Day Twenty four">
-      <change afterPath="$PROJECT_DIR$/ex026.py" afterDir="false" />
+    <list default="true" id="a67b1a82-26b1-43ad-96c3-fecb0bb3c813" name="Changes" comment="Day Twenty six">
+      <change afterPath="$PROJECT_DIR$/ex027.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +76,7 @@
     "Python.ex024.executor": "Run",
     "Python.ex025.executor": "Run",
     "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -352,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762394133538</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Day Twenty six">
+      <option name="closed" value="true" />
+      <created>1762567313452</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1762567313452</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +376,8 @@
     <MESSAGE value="Day Twenty" />
     <MESSAGE value="Day Twenty two" />
     <MESSAGE value="Day Twenty four" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day Twenty four" />
+    <MESSAGE value="Day Twenty six" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day Twenty six" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonExercicios$ex006.coverage" NAME="ex006 Coverage Results" MODIFIED="1759884487271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
