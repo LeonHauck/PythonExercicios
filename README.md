@@ -1,4 +1,4 @@
-# Exercicios propostos pelo Prof° Gustavo Guanabara - Curso de Python
+# Exercicios propostos pelo Prof°Gustavo Guanabara - Curso de Python
 
 ## PythonExercicios
 
